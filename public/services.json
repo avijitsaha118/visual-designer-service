@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "UI Design",
+        "price": "200",
+        "description": "Last 10 Years I extremely experienced in this field. You can complete your individual."
+    },
+    {
+        "id": 2,
+        "name": "Product Design",
+        "price": "500",
+        "description": "Complete your product design processing and submission from me. The service."
+    },
+    {
+        "id": 3,
+        "name": "Branding",
+        "price": "150",
+        "description": "A special session to discuss in-depth branding, marketing, promotion."
+    }
+]
