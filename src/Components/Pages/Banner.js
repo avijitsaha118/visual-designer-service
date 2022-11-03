@@ -1,10 +1,11 @@
 import React from 'react';
 import bnr from '../../Images/banner.jpg';
 
+
 const Banner = () => {
     return (
         <>
-            <div className="hero min-h-screen mb-10">
+            <div className="hero min-h-screen mb-8">
                 <div className="hero-content flex-col lg:flex-row">
                     <img src={bnr} />
 
