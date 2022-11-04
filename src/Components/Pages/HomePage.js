@@ -1,5 +1,7 @@
 import React from 'react';
 import Banner from './Banner';
+import BellowNav from './BellowNav';
+import Contact from './Contact';
 import DemoProjectGrid from './DemoProjectGrid';
 import Experiences from './Experiences';
 import FeaturedProjects from './FeaturedProjects';
@@ -14,6 +16,8 @@ const HomePage = () => {
             <Experiences></Experiences>
             <FeaturedProjects></FeaturedProjects>
             <DemoProjectGrid></DemoProjectGrid>
+            <Contact></Contact>
+            <BellowNav></BellowNav>
         </>
     );
 };
