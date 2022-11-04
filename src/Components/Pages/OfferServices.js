@@ -6,7 +6,7 @@ import { TfiLocationArrow } from "react-icons/tfi";
 
 const OfferServices = () => {
     return (
-        <div className='grid grid-cols-3 gap-4 ml-12 mb-12'>
+        <div className='grid lg:grid-cols-3 sm:grid-cols-1 gap-4 lg:ml-12 mb-12 sm:ml-16'>
             <div className="card w-72 text-white bg-gray-900 rounded ml-14">
                 <div className="card-body">
                     <div>

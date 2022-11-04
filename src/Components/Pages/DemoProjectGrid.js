@@ -8,7 +8,7 @@ import { HiArrowSmRight } from "react-icons/hi";
 const DemoProjectGrid = () => {
     return (
         <div>
-            <div className='grid grid-cols-2 gap-x-6 gap-y-6 mt-12'>
+            <div className='grid lg:grid-cols-2 sm:grid-cols-1 gap-x-6 gap-y-6 mt-12'>
 
                  <div className="rounded ml-16 drop-shadow-lg bg-gray-900">
                     <figure className="px-10 pt-10">

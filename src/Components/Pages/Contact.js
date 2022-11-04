@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <div className='-mt-20'>
 
-            <div className="grid grid-cols-2 h-48 ml-16 mr-16 rounded drop-shadow-lg justify-items-center bg-gray-900 text-white">
+            <div className="grid lg:grid-cols-2 sm:grid-cols-1 h-48 ml-16 mr-16 rounded drop-shadow-lg justify-items-center bg-gray-900 text-white">
 
                     <div className='mt-8 ml-8'>
                     <h2 className="font-bold text-3xl">Let's work togather on <br/> your next project!</h2>

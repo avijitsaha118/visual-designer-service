@@ -3,7 +3,7 @@ import React from 'react';
 const Experiences = () => {
     return (
         <div>
-            <div className='grid grid-rows-4 grid-flow-col gap-4'>
+            <div className='grid lg:grid-rows-4 sm:grid-rows-1 lg:grid-flow-col sm:grid-flow-col gap-4'>
                 <div className='row-span-4 mt-14 ml-12'>
                     <div className="card w-96 rounded drop-shadow-lg bg-gray-900">
                         <div className="card-body">
