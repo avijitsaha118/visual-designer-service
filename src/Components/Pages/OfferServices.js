@@ -15,7 +15,7 @@ const OfferServices = () => {
                     <h2 className="card-title text-start font-bold">UI Design</h2>
                     <p className=' text-gray-300'>Last 10 Years I extremely experienced in this field. You can complete your individual.</p>
                     <div className="card-actions justify-start">
-                        <button className='font-bold'> KNOW MORE <HiArrowSmRight></HiArrowSmRight> </button>
+                        <button className='flex font-bold'> KNOW MORE <HiArrowSmRight className='mt-1 ml-1'></HiArrowSmRight> </button>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@ const OfferServices = () => {
                     <h2 className="card-title text-start font-bold">Product Design</h2>
                     <p className='text-gray-300 text-start'>Last 10 Years I extremely experienced in this field. You can complete your individual.</p>
                     <div className="card-actions justify-start">
-                        <button className='font-bold'> KNOW MORE <HiArrowSmRight></HiArrowSmRight> </button>
+                        <button className='flex font-bold'> KNOW MORE <HiArrowSmRight className='mt-1 ml-1'></HiArrowSmRight> </button>
                     </div>
                 </div>
             </div>
@@ -41,7 +41,7 @@ const OfferServices = () => {
                     <h2 className="card-title text-start font-bold">Branding</h2>
                     <p className='text-gray-300 text-start'>Last 10 Years I extremely experienced in this field. You can complete your individual.</p>
                     <div className="card-actions justify-start">
-                        <button className='font-bold'> KNOW MORE <HiArrowSmRight></HiArrowSmRight> </button>
+                        <button className='flex font-bold'> KNOW MORE <HiArrowSmRight className='mt-1 ml-1'></HiArrowSmRight> </button>
                     </div>
                 </div>
             </div>
